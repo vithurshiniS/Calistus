@@ -28,6 +28,10 @@ import Victory from './components/Victory';
 import Sportsmanship from './components/Sportsmanship';
 import RoshanSir from './components/RoshanSir';
 import Highlights from './components/Highlights';
+import CBFC from './components/CBFC';
+import Sujeevan from './components/Sujeevan';
+import Badminton from './components/Badminton';
+import Champions from './components/Champions';
 
 function App() {
   return (
@@ -79,6 +83,14 @@ function App() {
     <Highlights/>
     <IntroText text ="Have you observed a range of feelings? Need to see some more? The emotions go beyond words. "/>
     <IntroText text="The Clash of Brotherhood Football Championship took place this year and was similarly passionate. The match was won by Team E16, which also demonstrated a range of drive and commitment. "/>
+    <CBFC/>
+    <IntroText text="The Sujeevan Memorial Volleyball Tournament, which was held this year as well, was extremely satisfying, and team 18A emerged victorious and declared themselves the winners."/>
+    <Sujeevan/>
+    <IntroText text="This year, the first-ever badminton championship was staged to encourage girls to participate in sports and advance their abilities. The E18 squad, who created history by becoming the first champions, displayed a range of emotions during the tournament."/>
+    <Badminton/>
+    <h1>Check out our champs! </h1>
+    <Champions/>
+    
     </div>
   );
 }
