@@ -12,6 +12,9 @@ import PlayoffTeams from './components/playOffTeams';
 
 import CalistusCoin from './assets/calistusCoin.png';
 import CoinHandOver from './assets/CoinHandOver.jpeg';
+import GroupE16 from './assets/GroupE16.jpeg';
+import PaavoAnna from './assets/PaavoAnna.jpeg';
+import GroupEfac from './assets/GroupEfac.jpeg';
 import GroundView from './assets/groundView.jpg';
 import DefendingCap from './assets/defendingCaptain.jpeg';
 import SimpleSlider from './components/BeforeMatches';
@@ -74,7 +77,6 @@ function App() {
     <Sportsmanship/>
     <IntroText text="Lacked only one thing. How about a champion selfie with the victory? "/>
     <div className="boxes" data-aos = "zoom-in">
-            
              <img src={Selfie}  className="intro-image" style={{ width: '100%', height: 'auto', padding: '20px', overflow:'hidden'}}/>
          </div>
          <IntroText text="In the gathering, the chief guest, Prof. Roshan G. Ragel, the Head of Computer Engineering at the Faculty of Engineering, University of Peradeniya, expressed his satisfaction during the awards ceremony."/>
@@ -90,7 +92,18 @@ function App() {
     <Badminton/>
     <h1>Check out our champs! </h1>
     <Champions/>
-    
+    <IntroText text="Under the motto 'ItzE16'sEndGame,' E16 worked tirelessly to make these events a huge success."/>
+    <div className="boxes" data-aos = "fade">
+             <img src={GroupE16}  className="intro-image" style={{ width: '100%', height: 'auto', padding: '20px', overflow:'hidden'}}/>
+         </div>
+    <IntroText text="In addition, the committee charged the succeeding batch, E17, with continuing where it left off and moving up the levels."/>
+    <div className="boxes" data-aos = "fade">
+             <img src={PaavoAnna}  className="intro-image" style={{ width: '100%', height: 'auto', padding: '20px', overflow:'hidden'}}/>
+         </div>
+    <IntroText text="“Where there is unity, there is always victory.” This will not stop here. To reach the upper levels, the entire squad will put forth their best effort."/>
+    <div className="boxes" data-aos = "zoom-in">
+             <img src={GroupEfac}  className="intro-image" style={{ width: '100%', height: 'auto', padding: '20px', overflow:'hidden'}}/>
+         </div>
     </div>
   );
 }
