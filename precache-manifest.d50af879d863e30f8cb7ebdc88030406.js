@@ -1,43 +1,43 @@
 self.__precacheManifest = [
   {
-    "revision": "a0a2524ddbf409444d7e",
-    "url": "/CalistusTrophy/static/css/main.8420a3c7.chunk.css"
+    "revision": "e3e55dee371eae4f6402",
+    "url": "/CalistusTrophy/static/css/main.f56f4f3d.chunk.css"
   },
   {
-    "revision": "a0a2524ddbf409444d7e",
-    "url": "/CalistusTrophy/static/js/main.a0a2524d.chunk.js"
+    "revision": "e3e55dee371eae4f6402",
+    "url": "/CalistusTrophy/static/js/main.e3e55dee.chunk.js"
   },
   {
-    "revision": "203309d7e863bf89b9eb",
-    "url": "/CalistusTrophy/static/js/1.203309d7.chunk.js"
+    "revision": "0fae0e8c0ea5a51eb9db",
+    "url": "/CalistusTrophy/static/js/1.0fae0e8c.chunk.js"
   },
   {
-    "revision": "0cc6c6440e43d07d643d",
-    "url": "/CalistusTrophy/static/css/2.3341c2d8.chunk.css"
+    "revision": "92bf8d5d638b8ad46094",
+    "url": "/CalistusTrophy/static/css/2.eedb69a3.chunk.css"
   },
   {
-    "revision": "0cc6c6440e43d07d643d",
-    "url": "/CalistusTrophy/static/js/2.0cc6c644.chunk.js"
+    "revision": "92bf8d5d638b8ad46094",
+    "url": "/CalistusTrophy/static/js/2.92bf8d5d.chunk.js"
   },
   {
-    "revision": "eb2c81303482c031e87b",
-    "url": "/CalistusTrophy/static/js/runtime~main.eb2c8130.js"
-  },
-  {
-    "revision": "d41f55a78e6f49a5512878df1737e58a",
-    "url": "/CalistusTrophy/static/media/slick.d41f55a7.ttf"
+    "revision": "d598992a13d52b4661dd",
+    "url": "/CalistusTrophy/static/js/runtime~main.d598992a.js"
   },
   {
     "revision": "ced611daf7709cc778da928fec876475",
     "url": "/CalistusTrophy/static/media/slick.ced611da.eot"
   },
   {
-    "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
-    "url": "/CalistusTrophy/static/media/slick.b7c9e1e4.woff"
+    "revision": "d41f55a78e6f49a5512878df1737e58a",
+    "url": "/CalistusTrophy/static/media/slick.d41f55a7.ttf"
   },
   {
     "revision": "f97e3bbf73254b0112091d0192f17aec",
     "url": "/CalistusTrophy/static/media/slick.f97e3bbf.svg"
+  },
+  {
+    "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
+    "url": "/CalistusTrophy/static/media/slick.b7c9e1e4.woff"
   },
   {
     "revision": "2be9c0da81f7f9633a2c353d2085c40e",
@@ -78,6 +78,18 @@ self.__precacheManifest = [
   {
     "revision": "681dfb4b212db9c4e28c219b89b12aab",
     "url": "/CalistusTrophy/static/media/CoinHandOver.681dfb4b.jpeg"
+  },
+  {
+    "revision": "7c1ae6f3eb85328c7dd78aabc79d5e34",
+    "url": "/CalistusTrophy/static/media/GroupE16.7c1ae6f3.jpeg"
+  },
+  {
+    "revision": "45e74c2127f2eef3bc2d991edc89c368",
+    "url": "/CalistusTrophy/static/media/PaavoAnna.45e74c21.jpeg"
+  },
+  {
+    "revision": "6cf2c8ba29776c336613b7d7734d2351",
+    "url": "/CalistusTrophy/static/media/GroupEfac.6cf2c8ba.jpeg"
   },
   {
     "revision": "6aab363fafd781424332a9aba11478fd",
@@ -252,11 +264,183 @@ self.__precacheManifest = [
     "url": "/CalistusTrophy/static/media/sports2.0493385d.jpeg"
   },
   {
+    "revision": "3113df577c6182dfd2a1161a7a3c3c10",
+    "url": "/CalistusTrophy/static/media/RoshanSir1.3113df57.jpeg"
+  },
+  {
+    "revision": "cf0dc63f90a7291959bdb395cbd4fe4f",
+    "url": "/CalistusTrophy/static/media/RoshanSir2.cf0dc63f.jpeg"
+  },
+  {
+    "revision": "22d82c24747a8dac93fbdadf1dccfeee",
+    "url": "/CalistusTrophy/static/media/RoshanSir3.22d82c24.jpeg"
+  },
+  {
+    "revision": "cc88cf3f4dd8ca035536a91beeb1374b",
+    "url": "/CalistusTrophy/static/media/Highlights1.cc88cf3f.jpg"
+  },
+  {
+    "revision": "fd129d385b400d58d4ad37e42daead4f",
+    "url": "/CalistusTrophy/static/media/Highlights2.fd129d38.jpeg"
+  },
+  {
+    "revision": "d79c3287cae6553be651d1ad36836edb",
+    "url": "/CalistusTrophy/static/media/Highlights3.d79c3287.jpeg"
+  },
+  {
+    "revision": "c51d88f37d688b325179cb6ac6b67614",
+    "url": "/CalistusTrophy/static/media/Highlights4.c51d88f3.jpeg"
+  },
+  {
+    "revision": "cb34fd41c55c97d2507d462260925be1",
+    "url": "/CalistusTrophy/static/media/Highlights5.cb34fd41.jpeg"
+  },
+  {
+    "revision": "223683ce769c0fe6a64f806540e43b45",
+    "url": "/CalistusTrophy/static/media/Highlights6.223683ce.jpeg"
+  },
+  {
+    "revision": "b46a62fd83e8707544e962139bf41b66",
+    "url": "/CalistusTrophy/static/media/Highlights7.b46a62fd.jpeg"
+  },
+  {
+    "revision": "4541b8e41cef562ebe56b6fd6959667d",
+    "url": "/CalistusTrophy/static/media/Highlights8.4541b8e4.jpg"
+  },
+  {
+    "revision": "30ded75af57cd31a5d36b3cf21379066",
+    "url": "/CalistusTrophy/static/media/Highlights9.30ded75a.jpeg"
+  },
+  {
+    "revision": "0401d39d6fb437d043ab7322a6fcc8ae",
+    "url": "/CalistusTrophy/static/media/Highlights10.0401d39d.jpeg"
+  },
+  {
+    "revision": "0c6c6fa73329cba7e72bda2b3f3ed1e6",
+    "url": "/CalistusTrophy/static/media/Highlights11.0c6c6fa7.jpeg"
+  },
+  {
+    "revision": "2d91b82d253be7a1171c9d2dca7963cf",
+    "url": "/CalistusTrophy/static/media/Highlights12.2d91b82d.jpeg"
+  },
+  {
+    "revision": "82efafe85b30f663e27e215dbee2d8c3",
+    "url": "/CalistusTrophy/static/media/Highlights13.82efafe8.jpeg"
+  },
+  {
+    "revision": "b8686e0117ce7353661cf34363ec14be",
+    "url": "/CalistusTrophy/static/media/fb1.b8686e01.jpeg"
+  },
+  {
+    "revision": "5c2e88b190719d82d8216724c388ddb6",
+    "url": "/CalistusTrophy/static/media/fb2.5c2e88b1.jpeg"
+  },
+  {
+    "revision": "f1a2dadeeaf169d45bbff34cbad95c8a",
+    "url": "/CalistusTrophy/static/media/fb3.f1a2dade.jpeg"
+  },
+  {
+    "revision": "23aa9d1efeaeb350721eae636dc21aa4",
+    "url": "/CalistusTrophy/static/media/fb4.23aa9d1e.jpeg"
+  },
+  {
+    "revision": "c66aa494bd252f9738b3431260b7b7f8",
+    "url": "/CalistusTrophy/static/media/fb5.c66aa494.jpeg"
+  },
+  {
+    "revision": "1b3c1a4aabcc5644b96e32332670cf10",
+    "url": "/CalistusTrophy/static/media/fb6.1b3c1a4a.jpeg"
+  },
+  {
+    "revision": "b85753065910b2a425d9711f3f394c59",
+    "url": "/CalistusTrophy/static/media/fb7.b8575306.jpeg"
+  },
+  {
+    "revision": "8dd3a467d72e5d67fd8058de3b41be85",
+    "url": "/CalistusTrophy/static/media/fb8.8dd3a467.jpeg"
+  },
+  {
+    "revision": "1be20df47a8db6dd936c54dc1a835e17",
+    "url": "/CalistusTrophy/static/media/fb9.1be20df4.jpeg"
+  },
+  {
+    "revision": "29600461887fb9d2f876ad0fd9f064ff",
+    "url": "/CalistusTrophy/static/media/vb1.29600461.jpeg"
+  },
+  {
+    "revision": "1a3315bc8e47a1ff693a30ae92986134",
+    "url": "/CalistusTrophy/static/media/vb2.1a3315bc.jpeg"
+  },
+  {
+    "revision": "8eacbd9cd232bf943eca7afe5c8eebd3",
+    "url": "/CalistusTrophy/static/media/vb3.8eacbd9c.jpeg"
+  },
+  {
+    "revision": "d4188c55d81b678777bcd1f60d2d7feb",
+    "url": "/CalistusTrophy/static/media/vb4.d4188c55.jpeg"
+  },
+  {
+    "revision": "75768d101f5d3a5ee6ef723212e7d8c5",
+    "url": "/CalistusTrophy/static/media/vb5.75768d10.jpeg"
+  },
+  {
+    "revision": "16bfbdf39f0776117807b961da7c78df",
+    "url": "/CalistusTrophy/static/media/vb6.16bfbdf3.jpeg"
+  },
+  {
+    "revision": "a5a090d59fe0847ecb37bea0411adc51",
+    "url": "/CalistusTrophy/static/media/Badminton1.a5a090d5.jpeg"
+  },
+  {
+    "revision": "d8589d8811c4950f56a58e312be23853",
+    "url": "/CalistusTrophy/static/media/Badminton2.d8589d88.jpeg"
+  },
+  {
+    "revision": "e4d00df1d66c6d615a7cc63118035a5e",
+    "url": "/CalistusTrophy/static/media/Badminton3.e4d00df1.jpeg"
+  },
+  {
+    "revision": "c5e5ce497648ec49a3af31887e9a97b5",
+    "url": "/CalistusTrophy/static/media/Badminton4.c5e5ce49.jpeg"
+  },
+  {
+    "revision": "981b6af6c0cbcfbb4f3a611b468ac3c8",
+    "url": "/CalistusTrophy/static/media/Badminton5.981b6af6.jpeg"
+  },
+  {
+    "revision": "2d0b86d51e900fba5b57a45ad229d4d7",
+    "url": "/CalistusTrophy/static/media/Badminton6.2d0b86d5.jpeg"
+  },
+  {
+    "revision": "f0d02d743e22c4b10832ad3667c9beda",
+    "url": "/CalistusTrophy/static/media/Badminton7.f0d02d74.jpeg"
+  },
+  {
+    "revision": "b3738d591bc63f13789e9c4c12b4c5fb",
+    "url": "/CalistusTrophy/static/media/Badminton8.b3738d59.jpeg"
+  },
+  {
+    "revision": "b0fa4efe9d63f1dd21963ee4880a90b6",
+    "url": "/CalistusTrophy/static/media/CalistusChamp.b0fa4efe.jpeg"
+  },
+  {
+    "revision": "adafcc28108e37d8212a79aac42a1e5f",
+    "url": "/CalistusTrophy/static/media/CBFCChamp.adafcc28.jpeg"
+  },
+  {
+    "revision": "8c5eedef6536bd191348c455950adf84",
+    "url": "/CalistusTrophy/static/media/SujeevanChamp.8c5eedef.jpeg"
+  },
+  {
+    "revision": "0d6764d292d69faa9637e6112c0c36d8",
+    "url": "/CalistusTrophy/static/media/BadmintonChamp.0d6764d2.jpeg"
+  },
+  {
     "revision": "06e733283fa43d1dd57738cfc409adbd",
     "url": "/CalistusTrophy/static/media/logo.06e73328.svg"
   },
   {
-    "revision": "8a0ddb808726c7ac875fb64436dcce3d",
+    "revision": "577439695ab5ab23bebb1b6d29235c46",
     "url": "/CalistusTrophy/index.html"
   }
 ];
