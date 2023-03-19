@@ -8,7 +8,7 @@ import NavaSir3 from '../assets/NavaSir3.jpeg';
 import NavaSir4 from '../assets/NavaSir4.jpeg';
 
 
-const PlayoffTeams = () => {
+const NavaSir = () => {
     useEffect(()=>{
         AOS.init({duration:2000});
     }, []);
@@ -35,4 +35,4 @@ const PlayoffTeams = () => {
     );
 };
 
-export default PlayoffTeams;
+export default NavaSir;
