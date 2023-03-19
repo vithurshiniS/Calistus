@@ -26,6 +26,7 @@ import Thrill from './assets/thrill.jpeg';
 import Disappointments from './components/Disappointments';
 import Victory from './components/Victory';
 import Sportsmanship from './components/Sportsmanship';
+import RoshanSir from './components/RoshanSir';
 
 function App() {
   return (
@@ -71,6 +72,8 @@ function App() {
             
              <img src={Selfie}  className="intro-image" style={{ width: '100%', height: 'auto', padding: '20px', overflow:'hidden'}}/>
          </div>
+         <IntroText text="In the gathering, the chief guest, Prof. Roshan G. Ragel, the Head of Computer Engineering at the Faculty of Engineering, University of Peradeniya, expressed his satisfaction during the awards ceremony."/>
+    <RoshanSir/>
     </div>
   );
 }
