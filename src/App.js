@@ -27,6 +27,7 @@ import Disappointments from './components/Disappointments';
 import Victory from './components/Victory';
 import Sportsmanship from './components/Sportsmanship';
 import RoshanSir from './components/RoshanSir';
+import Highlights from './components/Highlights';
 
 function App() {
   return (
@@ -68,12 +69,16 @@ function App() {
     <IntroText text="Whatever the outcome, they came together once more as brothers because good sportsmanship should never be compromised."/>
     <Sportsmanship/>
     <IntroText text="Lacked only one thing. How about a champion selfie with the victory? "/>
-    <div className="boxes" data-aos = "zoom">
+    <div className="boxes" data-aos = "zoom-in">
             
              <img src={Selfie}  className="intro-image" style={{ width: '100%', height: 'auto', padding: '20px', overflow:'hidden'}}/>
          </div>
          <IntroText text="In the gathering, the chief guest, Prof. Roshan G. Ragel, the Head of Computer Engineering at the Faculty of Engineering, University of Peradeniya, expressed his satisfaction during the awards ceremony."/>
     <RoshanSir/>
+    <IntroText text="A glance at some of the event's highlights"/>
+    <Highlights/>
+    <IntroText text ="Have you observed a range of feelings? Need to see some more? The emotions go beyond words. "/>
+    <IntroText text="The Clash of Brotherhood Football Championship took place this year and was similarly passionate. The match was won by Team E16, which also demonstrated a range of drive and commitment. "/>
     </div>
   );
 }
