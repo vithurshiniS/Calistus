@@ -1,43 +1,27 @@
 self.__precacheManifest = [
   {
-    "revision": "e3e55dee371eae4f6402",
-    "url": "/CalistusTrophy/static/css/main.f56f4f3d.chunk.css"
+    "revision": "ecf0ac7074fd84d1cd18",
+    "url": "/CalistusTrophy/static/css/main.9fefe285.chunk.css"
   },
   {
-    "revision": "e3e55dee371eae4f6402",
-    "url": "/CalistusTrophy/static/js/main.e3e55dee.chunk.js"
+    "revision": "ecf0ac7074fd84d1cd18",
+    "url": "/CalistusTrophy/static/js/main.ecf0ac70.chunk.js"
   },
   {
     "revision": "0fae0e8c0ea5a51eb9db",
     "url": "/CalistusTrophy/static/js/1.0fae0e8c.chunk.js"
   },
   {
-    "revision": "92bf8d5d638b8ad46094",
-    "url": "/CalistusTrophy/static/css/2.eedb69a3.chunk.css"
+    "revision": "4844c576c41932365de7",
+    "url": "/CalistusTrophy/static/css/2.9e878b60.chunk.css"
   },
   {
-    "revision": "92bf8d5d638b8ad46094",
-    "url": "/CalistusTrophy/static/js/2.92bf8d5d.chunk.js"
+    "revision": "4844c576c41932365de7",
+    "url": "/CalistusTrophy/static/js/2.4844c576.chunk.js"
   },
   {
     "revision": "d598992a13d52b4661dd",
     "url": "/CalistusTrophy/static/js/runtime~main.d598992a.js"
-  },
-  {
-    "revision": "ced611daf7709cc778da928fec876475",
-    "url": "/CalistusTrophy/static/media/slick.ced611da.eot"
-  },
-  {
-    "revision": "d41f55a78e6f49a5512878df1737e58a",
-    "url": "/CalistusTrophy/static/media/slick.d41f55a7.ttf"
-  },
-  {
-    "revision": "f97e3bbf73254b0112091d0192f17aec",
-    "url": "/CalistusTrophy/static/media/slick.f97e3bbf.svg"
-  },
-  {
-    "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
-    "url": "/CalistusTrophy/static/media/slick.b7c9e1e4.woff"
   },
   {
     "revision": "2be9c0da81f7f9633a2c353d2085c40e",
@@ -440,7 +424,23 @@ self.__precacheManifest = [
     "url": "/CalistusTrophy/static/media/logo.06e73328.svg"
   },
   {
-    "revision": "577439695ab5ab23bebb1b6d29235c46",
+    "revision": "f97e3bbf73254b0112091d0192f17aec",
+    "url": "/CalistusTrophy/static/media/slick.f97e3bbf.svg"
+  },
+  {
+    "revision": "ced611daf7709cc778da928fec876475",
+    "url": "/CalistusTrophy/static/media/slick.ced611da.eot"
+  },
+  {
+    "revision": "d41f55a78e6f49a5512878df1737e58a",
+    "url": "/CalistusTrophy/static/media/slick.d41f55a7.ttf"
+  },
+  {
+    "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
+    "url": "/CalistusTrophy/static/media/slick.b7c9e1e4.woff"
+  },
+  {
+    "revision": "8d733b01b53cd839d4717e43937e2364",
     "url": "/CalistusTrophy/index.html"
   }
 ];
