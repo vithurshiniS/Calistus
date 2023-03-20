@@ -24,8 +24,8 @@ code {
     width: 100%;
     object-fit:contain;
     overflow: hidden;
-
   }
+
   @media screen and (max-width: 600px) {
   .content{
     position: absolute;
@@ -87,14 +87,17 @@ code {
   }
 }
 
-  /* .overlay{
-    position:absolute;
-    top: 0;
-    left: 0;
-    height: 100%;
-    width: 100%;
-    background-color: rgba(0,0,0,.5);
-  } */
+
+
+.overlay{
+  position:absolute;
+  /* object-fit:contain; */
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-color: rgba(0,0,0,.5);
+}
 
 
    .intro-image {
