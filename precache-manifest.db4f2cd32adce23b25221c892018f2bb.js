@@ -424,10 +424,6 @@ self.__precacheManifest = [
     "url": "/CalistusTrophy/static/media/logo.06e73328.svg"
   },
   {
-    "revision": "f97e3bbf73254b0112091d0192f17aec",
-    "url": "/CalistusTrophy/static/media/slick.f97e3bbf.svg"
-  },
-  {
     "revision": "ced611daf7709cc778da928fec876475",
     "url": "/CalistusTrophy/static/media/slick.ced611da.eot"
   },
@@ -438,6 +434,10 @@ self.__precacheManifest = [
   {
     "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
     "url": "/CalistusTrophy/static/media/slick.b7c9e1e4.woff"
+  },
+  {
+    "revision": "f97e3bbf73254b0112091d0192f17aec",
+    "url": "/CalistusTrophy/static/media/slick.f97e3bbf.svg"
   },
   {
     "revision": "8d733b01b53cd839d4717e43937e2364",
