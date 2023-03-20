@@ -8,8 +8,8 @@ const IntroText = (props) => {
     //    maxWidth: '1000px', 
       margin: '0 auto', 
       padding: '10px', 
-      border: '1px solid #ccc', 
-      borderRadius: '10px',
+      // border: '1px solid #ccc', 
+      // borderRadius: '10px',
       overflow:'hidden'
       
       
