@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/CalistusTrophy/precache-manifest.74e19117a2db3679221511455501463c.js"
+  "/CalistusTrophy/precache-manifest.bb5026797f2745da2485bba514895e21.js"
 );
 
 workbox.clientsClaim();

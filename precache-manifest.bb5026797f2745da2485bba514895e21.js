@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "caa62ed92890b7f27f7b",
-    "url": "/CalistusTrophy/static/css/main.9fefe285.chunk.css"
+    "revision": "5037595c462fc7d5601c",
+    "url": "/CalistusTrophy/static/css/main.4dd0dec4.chunk.css"
   },
   {
-    "revision": "caa62ed92890b7f27f7b",
-    "url": "/CalistusTrophy/static/js/main.caa62ed9.chunk.js"
+    "revision": "5037595c462fc7d5601c",
+    "url": "/CalistusTrophy/static/js/main.5037595c.chunk.js"
   },
   {
-    "revision": "0fae0e8c0ea5a51eb9db",
-    "url": "/CalistusTrophy/static/js/1.0fae0e8c.chunk.js"
+    "revision": "ac24e3b79f3b666f9bf4",
+    "url": "/CalistusTrophy/static/js/1.ac24e3b7.chunk.js"
   },
   {
     "revision": "4844c576c41932365de7",
@@ -20,8 +20,8 @@ self.__precacheManifest = [
     "url": "/CalistusTrophy/static/js/2.4844c576.chunk.js"
   },
   {
-    "revision": "d598992a13d52b4661dd",
-    "url": "/CalistusTrophy/static/js/runtime~main.d598992a.js"
+    "revision": "174549eb97c9c4aa1868",
+    "url": "/CalistusTrophy/static/js/runtime~main.174549eb.js"
   },
   {
     "revision": "2be9c0da81f7f9633a2c353d2085c40e",
@@ -252,12 +252,12 @@ self.__precacheManifest = [
     "url": "/CalistusTrophy/static/media/RoshanSir1.3113df57.jpeg"
   },
   {
-    "revision": "cf0dc63f90a7291959bdb395cbd4fe4f",
-    "url": "/CalistusTrophy/static/media/RoshanSir2.cf0dc63f.jpeg"
+    "revision": "22d82c24747a8dac93fbdadf1dccfeee",
+    "url": "/CalistusTrophy/static/media/RoshanSir2.22d82c24.jpeg"
   },
   {
-    "revision": "22d82c24747a8dac93fbdadf1dccfeee",
-    "url": "/CalistusTrophy/static/media/RoshanSir3.22d82c24.jpeg"
+    "revision": "cf0dc63f90a7291959bdb395cbd4fe4f",
+    "url": "/CalistusTrophy/static/media/RoshanSir3.cf0dc63f.jpeg"
   },
   {
     "revision": "cc88cf3f4dd8ca035536a91beeb1374b",
@@ -424,23 +424,23 @@ self.__precacheManifest = [
     "url": "/CalistusTrophy/static/media/logo.06e73328.svg"
   },
   {
-    "revision": "ced611daf7709cc778da928fec876475",
-    "url": "/CalistusTrophy/static/media/slick.ced611da.eot"
+    "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
+    "url": "/CalistusTrophy/static/media/slick.b7c9e1e4.woff"
   },
   {
     "revision": "d41f55a78e6f49a5512878df1737e58a",
     "url": "/CalistusTrophy/static/media/slick.d41f55a7.ttf"
   },
   {
-    "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
-    "url": "/CalistusTrophy/static/media/slick.b7c9e1e4.woff"
-  },
-  {
     "revision": "f97e3bbf73254b0112091d0192f17aec",
     "url": "/CalistusTrophy/static/media/slick.f97e3bbf.svg"
   },
   {
-    "revision": "df59187ab35f764db58c130134f6c873",
+    "revision": "ced611daf7709cc778da928fec876475",
+    "url": "/CalistusTrophy/static/media/slick.ced611da.eot"
+  },
+  {
+    "revision": "19a00d32198f4724a3f2ebc6bebd6b4f",
     "url": "/CalistusTrophy/index.html"
   }
 ];
