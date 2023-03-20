@@ -1,7 +1,7 @@
 {
   "main.css": "/CalistusTrophy/static/css/main.9fefe285.chunk.css",
-  "main.js": "/CalistusTrophy/static/js/main.ecf0ac70.chunk.js",
-  "main.js.map": "/CalistusTrophy/static/js/main.ecf0ac70.chunk.js.map",
+  "main.js": "/CalistusTrophy/static/js/main.caa62ed9.chunk.js",
+  "main.js.map": "/CalistusTrophy/static/js/main.caa62ed9.chunk.js.map",
   "static/js/1.0fae0e8c.chunk.js": "/CalistusTrophy/static/js/1.0fae0e8c.chunk.js",
   "static/js/1.0fae0e8c.chunk.js.map": "/CalistusTrophy/static/js/1.0fae0e8c.chunk.js.map",
   "static/css/2.9e878b60.chunk.css": "/CalistusTrophy/static/css/2.9e878b60.chunk.css",
@@ -109,10 +109,10 @@
   "static/media/SujeevanChamp.jpeg": "/CalistusTrophy/static/media/SujeevanChamp.8c5eedef.jpeg",
   "static/media/BadmintonChamp.jpeg": "/CalistusTrophy/static/media/BadmintonChamp.0d6764d2.jpeg",
   "static/media/logo.svg": "/CalistusTrophy/static/media/logo.06e73328.svg",
-  "static/media/slick-theme.css": "/CalistusTrophy/static/media/slick.b7c9e1e4.woff",
+  "static/media/slick-theme.css": "/CalistusTrophy/static/media/slick.f97e3bbf.svg",
   "static/css/main.9fefe285.chunk.css.map": "/CalistusTrophy/static/css/main.9fefe285.chunk.css.map",
   "static/css/2.9e878b60.chunk.css.map": "/CalistusTrophy/static/css/2.9e878b60.chunk.css.map",
   "index.html": "/CalistusTrophy/index.html",
-  "precache-manifest.abda136147a56a121841ac877d7a831a.js": "/CalistusTrophy/precache-manifest.abda136147a56a121841ac877d7a831a.js",
+  "precache-manifest.74e19117a2db3679221511455501463c.js": "/CalistusTrophy/precache-manifest.74e19117a2db3679221511455501463c.js",
   "service-worker.js": "/CalistusTrophy/service-worker.js"
 }
