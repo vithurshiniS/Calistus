@@ -101,7 +101,7 @@ function App() {
     <RoshanSir/>
     <IntroText text="A glance at some of the event's highlights"/>
     <Highlights/>
-    <IntroText text ="Have you observed a range of feelings? Need to see some more? The emotions go beyond words. "/>
+    {/* <IntroText text ="Have you observed a range of feelings? Need to see some more? The emotions go beyond words. "/> */}
     <IntroText text="The Clash of Brotherhood Football Championship took place this year and was similarly passionate. The match was won by Team E16, which also demonstrated a range of drive and commitment. "/>
     <CBFC/>
     <IntroText text="The Sujeevan Memorial Volleyball Tournament, which was held this year as well, was extremely satisfying, and team 18A emerged victorious and declared themselves the winners."/>

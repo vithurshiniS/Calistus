@@ -15,7 +15,8 @@ const Qualifier2 = () => {
     return (
         <div className="grids">
             {/* <h3>Qualifier 2 between 16A and 17A</h3> */}
-            <div className="boxes" data-aos = "fade">
+            
+            <div className="separateboxes" data-aos = "fade">
             <div className='playoff'>
                     <p className='teamname'>Qualifier 2 between 16A and 17A</p>
                 </div>

@@ -14,28 +14,28 @@ const PlayoffTeams = () => {
     }, []);
     return (
         <div className="grids">
-            <div className="boxes" data-aos = "fade-right">
+            <div className="playoffboxes" data-aos = "fade-right">
                 {/* <h3>Team 16A</h3> */}
                 <div className='teamnamebox'>
                     <p className='teamname'>Team 16A</p>
                 </div>
                 <img src={Team16A}  className="intro-image" />
             </div>
-            <div className="boxes" data-aos = "fade-left">
+            <div className="playoffboxes" data-aos = "fade-left">
                 {/* <h3>Team 17A</h3> */}
                 <div className='teamnamebox'>
                     <p className='teamname'>Team 17A</p>
                 </div>
                 <img src={Team17A}  className="intro-image" />
             </div>
-            <div className="boxes" data-aos = "fade-right">
+            <div className="playoffboxes" data-aos = "fade-right">
                 {/* <h3>Team 18A</h3> */}
                 <div className='teamnamebox'>
                     <p className='teamname'>Team 18A</p>
                 </div>
                 <img src={Team18A}  className="intro-image" />
             </div>
-            <div className="boxes" data-aos = "fade-left">
+            <div className="playoffboxes" data-aos = "fade-left">
                 {/* <h3>Team 19A</h3> */}
                 <div className='teamnamebox'>
                     <p className='teamname'>Team 19A</p>

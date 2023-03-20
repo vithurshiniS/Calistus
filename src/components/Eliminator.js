@@ -14,7 +14,7 @@ const Eliminator = () => {
     return (
         <div className="grids">
             {/* <h3>Eliminator between 16A and 19A</h3> */}
-            <div className="boxes" data-aos = "fade">
+            <div className="separateboxes" data-aos = "fade">
             <div className='playoff'>
                     <p className='teamname'>Eliminator between 16A and 19A</p>
                 </div>

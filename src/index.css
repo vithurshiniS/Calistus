@@ -109,6 +109,27 @@ code {
 .boxes{
   padding-left: 5px ;
   padding-right: 5px;
+  /* padding-top: 10px; */
+  padding-bottom: 10px;
+}
+
+.separateboxes{
+  padding-left: 5px ;
+  padding-right: 5px;
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+
+.champmainboxes{
+  padding-left: 5px ;
+  padding-right: 5px;
+  /* padding-top: 10px; */
+  padding-bottom: 30px;
+}
+
+.playoffboxes{
+  padding-left: 5px ;
+  padding-right: 5px;
   padding-top: 30px;
 }
 
@@ -233,7 +254,9 @@ code {
     align-items: center;
     justify-content: center;
     margin: 0 auto;
-  
+    font-weight: bold;
+    /* padding: 5px; */
+    /* margin: 5px; */
   
   }
 
