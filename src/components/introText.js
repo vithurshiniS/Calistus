@@ -22,7 +22,7 @@ const IntroText = (props) => {
         
         
       }}>
-       {props.text },<b>{props.bold}</b>
+       {props.text }<b>{props.bold}</b>
        <a href={props.link}>{props.linkname}</a>
        {props.text2}
       </p>
