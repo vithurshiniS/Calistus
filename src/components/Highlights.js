@@ -26,43 +26,43 @@ const Highlights = () => {
     return (
         <div className="grids">
             <div className="boxes" data-aos = "zoom-in">
-                <img src={Highlights1}  className="intro-image" style={{ width: '100%', height: 'auto', padding: '20px', overflow:'hidden'}}/>
+                <img src={Highlights1}  className="intro-image" />
             </div>
             <div className="boxes" data-aos = "zoom-in">
-                <img src={Highlights2}  className="intro-image" style={{ width: '100%', height: 'auto', padding: '20px', overflow:'hidden'}}/>
+                <img src={Highlights2}  className="intro-image" />
             </div>
             <div className="boxes" data-aos = "zoom-in">
-                <img src={Highlights3}  className="intro-image" style={{ width: '100%', height: 'auto', padding: '20px', overflow:'hidden'}}/>
+                <img src={Highlights3}  className="intro-image" />
             </div>
             <div className="boxes" data-aos = "zoom-in">
-                <img src={Highlights4}  className="intro-image" style={{ width: '100%', height: 'auto', padding: '20px', overflow:'hidden'}}/>
+                <img src={Highlights4}  className="intro-image"/>
             </div>
             <div className="boxes" data-aos = "zoom-in">
-                <img src={Highlights5}  className="intro-image" style={{ width: '100%', height: 'auto', padding: '20px', overflow:'hidden'}}/>
+                <img src={Highlights5}  className="intro-image" />
             </div>
             <div className="boxes" data-aos = "zoom-in">
-                <img src={Highlights6}  className="intro-image" style={{ width: '100%', height: 'auto', padding: '20px', overflow:'hidden'}}/>
+                <img src={Highlights6}  className="intro-image" />
             </div>
             <div className="boxes" data-aos = "zoom-in">
-                <img src={Highlights7}  className="intro-image" style={{ width: '100%', height: 'auto', padding: '20px', overflow:'hidden'}}/>
+                <img src={Highlights7}  className="intro-image" />
             </div>
             <div className="boxes" data-aos = "zoom-in">
-                <img src={Highlights8}  className="intro-image" style={{ width: '100%', height: 'auto', padding: '20px', overflow:'hidden'}}/>
+                <img src={Highlights8}  className="intro-image"/>
             </div>
             <div className="boxes" data-aos = "zoom-in">
-                <img src={Highlights9}  className="intro-image" style={{ width: '100%', height: 'auto', padding: '20px', overflow:'hidden'}}/>
+                <img src={Highlights9}  className="intro-image" />
             </div>
             <div className="boxes" data-aos = "zoom-in">
-                <img src={Highlights10}  className="intro-image" style={{ width: '100%', height: 'auto', padding: '20px', overflow:'hidden'}}/>
+                <img src={Highlights10}  className="intro-image" />
             </div>
             <div className="boxes" data-aos = "zoom-in">
-                <img src={Highlights11}  className="intro-image" style={{ width: '100%', height: 'auto', padding: '20px', overflow:'hidden'}}/>
+                <img src={Highlights11}  className="intro-image" />
             </div>
             <div className="boxes" data-aos = "zoom-in">
-                <img src={Highlights12}  className="intro-image" style={{ width: '100%', height: 'auto', padding: '20px', overflow:'hidden'}}/>
+                <img src={Highlights12}  className="intro-image" />
             </div>
             <div className="boxes" data-aos = "zoom-in">
-                <img src={Highlights13}  className="intro-image" style={{ width: '100%', height: 'auto', padding: '20px', overflow:'hidden'}}/>
+                <img src={Highlights13}  className="intro-image" />
             </div>
            
             

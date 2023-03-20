@@ -18,22 +18,22 @@ const Sujeevan = () => {
     return (
         <div className="grids">
             <div className="boxes" data-aos = "fade-right">
-                <img src={vb1}  className="intro-image" style={{ width: '100%', height: 'auto', padding: '20px', overflow:'hidden'}}/>
+                <img src={vb1}  className="intro-image" />
             </div>
             <div className="boxes" data-aos = "fade-left">
-                <img src={vb2}  className="intro-image" style={{ width: '100%', height: 'auto', padding: '20px', overflow:'hidden'}}/>
+                <img src={vb2}  className="intro-image"/>
             </div>
             <div className="boxes" data-aos = "fade-right">
-                <img src={vb3}  className="intro-image" style={{ width: '100%', height: 'auto', padding: '20px', overflow:'hidden'}}/>
+                <img src={vb3}  className="intro-image" />
             </div>
             <div className="boxes" data-aos = "fade-left">
-                <img src={vb4}  className="intro-image" style={{ width: '100%', height: 'auto', padding: '20px', overflow:'hidden'}}/>
+                <img src={vb4}  className="intro-image" />
             </div>
             <div className="boxes" data-aos = "fade-right">
-                <img src={vb5}  className="intro-image" style={{ width: '100%', height: 'auto', padding: '20px', overflow:'hidden'}}/>
+                <img src={vb5}  className="intro-image" />
             </div>
             <div className="boxes" data-aos = "fade-left">
-                <img src={vb6}  className="intro-image" style={{ width: '100%', height: 'auto', padding: '20px', overflow:'hidden'}}/>
+                <img src={vb6}  className="intro-image" />
             </div>
             
             

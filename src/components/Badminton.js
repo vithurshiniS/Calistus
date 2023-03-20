@@ -20,28 +20,28 @@ const Badminton = () => {
     return (
         <div className="grids">
             <div className="boxes" data-aos = "fade-right">   
-                <img src={Badminton1}  className="intro-image" style={{ width: '100%', height: 'auto', padding: '20px', overflow:'hidden'}}/>
+                <img src={Badminton1}  className="intro-image" />
             </div>
             <div className="boxes" data-aos = "fade-left">  
-                <img src={Badminton2}  className="intro-image" style={{ width: '100%', height: 'auto', padding: '20px', overflow:'hidden'}}/>
+                <img src={Badminton2}  className="intro-image"/>
             </div>
             <div className="boxes" data-aos = "fade-right">  
-                <img src={Badminton3}  className="intro-image" style={{ width: '100%', height: 'auto', padding: '20px', overflow:'hidden'}}/>
+                <img src={Badminton3}  className="intro-image"/>
             </div>
             <div className="boxes" data-aos = "fade-left">  
-                <img src={Badminton4}  className="intro-image" style={{ width: '100%', height: 'auto', padding: '20px', overflow:'hidden'}}/>
+                <img src={Badminton4}  className="intro-image" />
             </div>
             <div className="boxes" data-aos = "fade-right">  
-                <img src={Badminton5}  className="intro-image" style={{ width: '100%', height: 'auto', padding: '20px', overflow:'hidden'}}/>
+                <img src={Badminton5}  className="intro-image" />
             </div>
             <div className="boxes" data-aos = "fade-left">  
-                <img src={Badminton6}  className="intro-image" style={{ width: '100%', height: 'auto', padding: '20px', overflow:'hidden'}}/>
+                <img src={Badminton6}  className="intro-image"/>
             </div>
             <div className="boxes" data-aos = "fade-right">  
-                <img src={Badminton7}  className="intro-image" style={{ width: '100%', height: 'auto', padding: '20px', overflow:'hidden'}}/>
+                <img src={Badminton7}  className="intro-image" />
             </div>
             <div className="boxes" data-aos = "fade-left">  
-                <img src={Badminton8}  className="intro-image" style={{ width: '100%', height: 'auto', padding: '20px', overflow:'hidden'}}/>
+                <img src={Badminton8}  className="intro-image" />
             </div>
             
             

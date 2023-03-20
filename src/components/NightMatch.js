@@ -17,15 +17,15 @@ const NightMatch = () => {
          
             <div className="boxes" data-aos = "fade">
            
-                <img src={nmatch1}  className="intro-image" style={{ width: '100%', height: 'auto', padding: '20px', overflow:'hidden'}}/>
+                <img src={nmatch1}  className="intro-image" />
             </div>
             <div className="boxes" data-aos = "fade">
              
-                <img src={nmatch2}  className="intro-image" style={{ width: '100%', height: 'auto', padding: '20px', overflow:'hidden'}}/>
+                <img src={nmatch2}  className="intro-image" />
             </div>
             <div className="boxes" data-aos = "fade">
                
-                <img src={nmatch3}  className="intro-image" style={{ width: '100%', height: 'auto', padding: '20px', overflow:'hidden'}}/>
+                <img src={nmatch3}  className="intro-image" />
             </div>
             
             

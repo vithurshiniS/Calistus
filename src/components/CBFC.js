@@ -21,31 +21,31 @@ const CBFC = () => {
     return (
         <div className="grids">
             <div className="boxes" data-aos = "fade-right">
-                <img src={fb1}  className="intro-image" style={{ width: '100%', height: 'auto', padding: '20px', overflow:'hidden'}}/>
+                <img src={fb1}  className="intro-image"/>
             </div>
             <div className="boxes" data-aos = "fade-left">
-                <img src={fb2}  className="intro-image" style={{ width: '100%', height: 'auto', padding: '20px', overflow:'hidden'}}/>
+                <img src={fb2}  className="intro-image" />
             </div>
             <div className="boxes" data-aos = "fade-right">
-                <img src={fb3}  className="intro-image" style={{ width: '100%', height: 'auto', padding: '20px', overflow:'hidden'}}/>
+                <img src={fb3}  className="intro-image" />
             </div>
             <div className="boxes" data-aos = "fade-left">
-                <img src={fb4}  className="intro-image" style={{ width: '100%', height: 'auto', padding: '20px', overflow:'hidden'}}/>
+                <img src={fb4}  className="intro-image" />
             </div>
             <div className="boxes" data-aos = "fade-right">
-                <img src={fb5}  className="intro-image" style={{ width: '100%', height: 'auto', padding: '20px', overflow:'hidden'}}/>
+                <img src={fb5}  className="intro-image" />
             </div>
             <div className="boxes" data-aos = "fade-left">
-                <img src={fb6}  className="intro-image" style={{ width: '100%', height: 'auto', padding: '20px', overflow:'hidden'}}/>
+                <img src={fb6}  className="intro-image"/>
             </div>
             <div className="boxes" data-aos = "fade-right">
-                <img src={fb7}  className="intro-image" style={{ width: '100%', height: 'auto', padding: '20px', overflow:'hidden'}}/>
+                <img src={fb7}  className="intro-image" />
             </div>
             <div className="boxes" data-aos = "fade-left">
-                <img src={fb8}  className="intro-image" style={{ width: '100%', height: 'auto', padding: '20px', overflow:'hidden'}}/>
+                <img src={fb8}  className="intro-image" />
             </div>
             <div className="boxes" data-aos = "fade-right">
-                <img src={fb9}  className="intro-image" style={{ width: '100%', height: 'auto', padding: '20px', overflow:'hidden'}}/>
+                <img src={fb9}  className="intro-image" />
             </div>
             
             

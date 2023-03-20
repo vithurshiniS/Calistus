@@ -15,20 +15,32 @@ const Champions = () => {
     return (
         <div className="grids">
             <div className="boxes" data-aos = "zoom-in">
-                <img src={CalistusChamp}  className="intro-image" style={{ width: '100%', height: 'auto', padding: '20px', overflow:'hidden'}}/>
-                <h2>Champions of the Calistus Memorial Cricket Trophy</h2>
+                <img src={CalistusChamp}  className="intro-image" />
+                <div className='championbox'>
+                    <p className='championname'>Champions of the Calistus Memorial Cricket Trophy</p>
+                </div>
+                {/* <h2>Champions of the Calistus Memorial Cricket Trophy</h2> */}
             </div>
             <div className="boxes" data-aos = "zoom-in">
-                <img src={CBFCChamp}  className="intro-image" style={{ width: '100%', height: 'auto', padding: '20px', overflow:'hidden'}}/>
-                <h2>Champions of the Clash of Brotherhood Football Championship</h2>
+                <img src={CBFCChamp}  className="intro-image" />
+                <div className='championbox'>
+                    <p className='championname'>Champions of the Clash of Brotherhood Football Championship</p>
+                </div>
+                {/* <h2>Champions of the Clash of Brotherhood Football Championship</h2> */}
             </div>
             <div className="boxes" data-aos = "zoom-in">
-                <img src={SujeevanChamp}  className="intro-image" style={{ width: '100%', height: 'auto', padding: '20px', overflow:'hidden'}}/>
-                <h2>Champions of the Sujeevan Memorial Volleyball Tournament</h2>
+                <img src={SujeevanChamp}  className="intro-image" />
+                <div className='championbox'>
+                    <p className='championname'>Champions of the Sujeevan Memorial Volleyball Tournament</p>
+                </div>
+                {/* <h2>Champions of the Sujeevan Memorial Volleyball Tournament</h2> */}
             </div>
-            <div className="boxes" data-aos = "zoom-in">
-                <img src={BadmintonChamp}  className="intro-image" style={{ width: '100%', height: 'auto', padding: '20px', overflow:'hidden'}}/>
-                <h2>Champions of the Badminton Championship</h2>
+            <div className="boxes" data-aos = "zoom-in" >
+                <img src={BadmintonChamp}  className="intro-image"/>
+                <div className='championbox'>
+                    <p className='championname'>Champions of the Badminton Championship</p>
+                </div>
+                {/* <h2>Champions of the Badminton Championship</h2> */}
             </div> 
         </div>
     );

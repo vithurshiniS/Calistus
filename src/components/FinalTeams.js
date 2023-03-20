@@ -16,11 +16,11 @@ const FinalTeams = () => {
            
             <div className="boxes" data-aos = "zoom-in">
              
-                <img src={ft1}  className="intro-image" style={{ width: '100%', height: 'auto', padding: '20px', overflow:'hidden'}}/>
+                <img src={ft1}  className="intro-image" />
             </div>
             <div className="boxes" data-aos = "zoom-in">
       
-                <img src={ft2}  className="intro-image" style={{ width: '100%', height: 'auto', padding: '20px', overflow:'hidden'}}/>
+                <img src={ft2}  className="intro-image" />
             </div>
            
             

@@ -17,15 +17,15 @@ const RoshanSir = () => {
     
             <div className="boxes" data-aos = "fade">
            
-                <img src={RoshanSir1}  className="intro-image" style={{ width: '100%', height: 'auto', padding: '20px', overflow:'hidden'}}/>
+                <img src={RoshanSir1}  className="intro-image" />
             </div>
             <div className="boxes" data-aos = "fade">
              
-                <img src={RoshanSir2}  className="intro-image" style={{ width: '100%', height: 'auto', padding: '20px', overflow:'hidden'}}/>
+                <img src={RoshanSir2}  className="intro-image" />
             </div>
             <div className="boxes" data-aos = "fade">
                
-                <img src={RoshanSir3}  className="intro-image" style={{ width: '100%', height: 'auto', padding: '20px', overflow:'hidden'}}/>
+                <img src={RoshanSir3}  className="intro-image" />
             </div>
             
             

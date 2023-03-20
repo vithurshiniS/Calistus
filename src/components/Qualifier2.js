@@ -14,18 +14,20 @@ const Qualifier2 = () => {
     }, []);
     return (
         <div className="grids">
-            <h3>Qualifier 2 between 16A and 17A</h3>
+            {/* <h3>Qualifier 2 between 16A and 17A</h3> */}
             <div className="boxes" data-aos = "fade">
-          
-                <img src={q21}  className="intro-image" style={{ width: '100%', height: 'auto', padding: '20px', overflow:'hidden'}}/>
+            <div className='playoff'>
+                    <p className='teamname'>Qualifier 2 between 16A and 17A</p>
+                </div>
+                <img src={q21}  className="intro-image" />
             </div>
             <div className="boxes" data-aos = "fade">
     
-                <img src={q22}  className="intro-image" style={{ width: '100%', height: 'auto', padding: '20px', overflow:'hidden'}}/>
+                <img src={q22}  className="intro-image" />
             </div>
             <div className="boxes" data-aos = "fade">
            
-                <img src={q23}  className="intro-image" style={{ width: '100%', height: 'auto', padding: '20px', overflow:'hidden'}}/>
+                <img src={q23}  className="intro-image" />
             </div>
          
             

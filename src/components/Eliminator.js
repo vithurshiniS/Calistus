@@ -13,14 +13,16 @@ const Eliminator = () => {
     }, []);
     return (
         <div className="grids">
-            <h3>Eliminator between 16A and 19A</h3>
+            {/* <h3>Eliminator between 16A and 19A</h3> */}
             <div className="boxes" data-aos = "fade">
-             
-                <img src={e1}  className="intro-image" style={{ width: '100%', height: 'auto', padding: '20px', overflow:'hidden'}}/>
+            <div className='playoff'>
+                    <p className='teamname'>Eliminator between 16A and 19A</p>
+                </div>
+                <img src={e1}  className="intro-image" />
             </div>
             <div className="boxes" data-aos = "fade">
       
-                <img src={e2}  className="intro-image" style={{ width: '100%', height: 'auto', padding: '20px', overflow:'hidden'}}/>
+                <img src={e2}  className="intro-image" />
             </div>
            
             

@@ -17,11 +17,11 @@ const Sportsmanship = () => {
       
             <div className="boxes" data-aos = "fade-right">
            
-                <img src={sportsmanship1}  className="intro-image" style={{ width: '100%', height: 'auto', padding: '20px', overflow:'hidden'}}/>
+                <img src={sportsmanship1}  className="intro-image" />
             </div>
             <div className="boxes" data-aos = "fade-left">
              
-                <img src={sportsmanship2}  className="intro-image" style={{ width: '100%', height: 'auto', padding: '20px', overflow:'hidden'}}/>
+                <img src={sportsmanship2}  className="intro-image" />
             </div>
           
             

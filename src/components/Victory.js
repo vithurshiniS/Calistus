@@ -22,31 +22,31 @@ const Victory = () => {
    
             <div className="boxes" data-aos = "fade-right">
            
-                <img src={victory1}  className="intro-image" style={{ width: '100%', height: 'auto', padding: '20px', overflow:'hidden'}}/>
+                <img src={victory1}  className="intro-image" />
             </div>
             <div className="boxes" data-aos = "fade-left">
              
-                <img src={victory2}  className="intro-image" style={{ width: '100%', height: 'auto', padding: '20px', overflow:'hidden'}}/>
+                <img src={victory2}  className="intro-image" />
             </div>
             <div className="boxes" data-aos = "fade-right">
                
-                <img src={victory3}  className="intro-image" style={{ width: '100%', height: 'auto', padding: '20px', overflow:'hidden'}}/>
+                <img src={victory3}  className="intro-image" />
             </div>
             <div className="boxes" data-aos = "fade-left">
              
-             <img src={victory4}  className="intro-image" style={{ width: '100%', height: 'auto', padding: '20px', overflow:'hidden'}}/>
+             <img src={victory4}  className="intro-image" />
          </div>
          <div className="boxes" data-aos = "fade-right">
             
-             <img src={victory5}  className="intro-image" style={{ width: '100%', height: 'auto', padding: '20px', overflow:'hidden'}}/>
+             <img src={victory5}  className="intro-image" />
          </div>
          <div className="boxes" data-aos = "fade-left">
              
-             <img src={victory6}  className="intro-image" style={{ width: '100%', height: 'auto', padding: '20px', overflow:'hidden'}}/>
+             <img src={victory6}  className="intro-image" />
          </div>
          <div className="boxes" data-aos = "fade-right">
             
-             <img src={victory7}  className="intro-image" style={{ width: '100%', height: 'auto', padding: '20px', overflow:'hidden'}}/>
+             <img src={victory7}  className="intro-image" />
          </div>
             
             

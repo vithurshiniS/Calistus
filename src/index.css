@@ -10,6 +10,8 @@
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+    /* font-family: 'Josefin Sans', sans-serif; */
+   
 } 
 
 /* .introvideo{
@@ -20,14 +22,15 @@ code {
   video{
     height: 100%;
     width: 100%;
-    object-fit:cover;
+    object-fit:contain;
+    overflow: hidden;
 
   }
   @media screen and (max-width: 600px) {
   .content{
     position: absolute;
     height: 100%;
-    width: 100%;
+    /* width: 100%; */
     top: 0;
     display: flex;
     flex-direction: column;
@@ -57,7 +60,7 @@ code {
   .content{
     position: absolute;
     height: 100%;
-    width: 100%;
+    /* width: 100%; */
     top: 0;
     display: flex;
     flex-direction: column;
@@ -78,7 +81,7 @@ code {
   }
   
   .intro-text {
-    font-size: 20px;
+    font-size: 25px;
     color: black;
     margin-right: 20px;
   }
@@ -93,13 +96,21 @@ code {
     background-color: rgba(0,0,0,.5);
   } */
 
-/* 
-   .intro-image {
-    padding: 25px;
-    float: right;
-    height: 100%;
 
-  } */
+   .intro-image {
+    /* padding: 15px; */
+    height: 100%;
+    width: 100%;
+    padding-top: 3px;
+
+
+  }
+
+.boxes{
+  padding-left: 5px ;
+  padding-right: 5px;
+  padding-top: 30px;
+}
 
   /* .intro-container {
     display: flex;
@@ -127,7 +138,7 @@ code {
   
   .image,
   .image2 {
-    width: 100%;
+    /* width: 100%; */
     height: 100%;
     background-size: cover;
     background-position: center;
@@ -154,4 +165,88 @@ code {
     padding: 10px;
     margin-right: 50px;
   }
+
+  /* .wholetext{
+    font-family: 'Josefin Sans', sans-serif;
+  } */
   
+  .teamnamebox{
+    height: 60px;
+    width: 100%;
+    max-width: 1000px;
+    background-color:#AF8C95;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+  
+  
+  }
+
+  .teamname{
+    justify-content: center;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+  } 
+
+  .playoff{
+    height: 60px;
+    width: 100%;
+    max-width: 1000px;
+    background-color:#9AC7CA;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    margin-bottom: 8px;
+  
+  }
+
+  .championbox{
+    height: 120px;
+    width: 100%;
+    /* max-width: 1000px; */
+    background-color:bisque;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+  
+  
+  }
+
+  .championname{
+    justify-content: center;
+    /* font-family: 'Josefin Sans', sans-serif; */
+    font-family: 'Lora', serif;
+    font-weight: bold;
+    font-size: 20px;
+  } 
+
+  .finalbox{
+    height: 100%;
+    width: 100%;
+    /* max-width: 1000px; */
+    background-color:#DEE6EA;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+  
+  
+  }
+
+  .finaltext{
+    justify-content: center;
+    /* font-family: 'Josefin Sans', sans-serif; */
+    font-family: 'Lora', serif;
+  
+    font-size: 15px;
+  } 
+
+  .titletext{
+    font-family: 'Lora', serif;
+  }
+
+

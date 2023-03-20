@@ -15,7 +15,7 @@ import bm8 from '../assets/bm8.jpeg';
 
 
 
-export default class SimpleSlider extends Component {
+export default class BeforeMatches extends Component {
   render() {
     const settings = {
       dots: true,
@@ -28,7 +28,7 @@ export default class SimpleSlider extends Component {
       cssEase: "linear"
     };
     return (
-      <div>
+      <div style={{paddingBottom:'35px'}}>
         {/* <h2> Single Item</h2> */}
         <Slider {...settings}>
   
@@ -40,11 +40,6 @@ export default class SimpleSlider extends Component {
           <img src={bm6}  className="beforeMatch-image" />
           <img src={bm7}  className="beforeMatch-image"/>
           <img src={bm8}  className="beforeMatch-image" />
-     
-
-          
-      
-          
         </Slider>
       </div>
     );

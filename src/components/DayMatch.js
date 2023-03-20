@@ -18,19 +18,19 @@ const DayMatch = () => {
    
             <div className="boxes" data-aos = "fade">
            
-                <img src={dmatch1}  className="intro-image" style={{ width: '100%', height: 'auto', padding: '20px', overflow:'hidden'}}/>
+                <img src={dmatch1}  className="intro-image" />
             </div>
             <div className="boxes" data-aos = "fade">
              
-                <img src={dmatch2}  className="intro-image" style={{ width: '100%', height: 'auto', padding: '20px', overflow:'hidden'}}/>
+                <img src={dmatch2}  className="intro-image" />
             </div>
             <div className="boxes" data-aos = "fade">
                
-                <img src={dmatch3}  className="intro-image" style={{ width: '100%', height: 'auto', padding: '20px', overflow:'hidden'}}/>
+                <img src={dmatch3}  className="intro-image" />
             </div>
             <div className="boxes" data-aos = "fade">
                
-               <img src={dmatch4}  className="intro-image" style={{ width: '100%', height: 'auto', padding: '20px', overflow:'hidden'}}/>
+               <img src={dmatch4}  className="intro-image" />
            </div>
            
             

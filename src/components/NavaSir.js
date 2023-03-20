@@ -16,19 +16,19 @@ const NavaSir = () => {
         <div className="grids">
             <div className="boxes" data-aos = "fade-up">
              
-                <img src={NavaSir1}  className="intro-image" style={{ width: '100%', height: 'auto', padding: '20px', overflow:'hidden'}}/>
+                <img src={NavaSir1}  className="intro-image" />
             </div>
             <div className="boxes" data-aos = "fade-up">
          
-                <img src={NavaSir2}  className="intro-image" style={{ width: '100%', height: 'auto', padding: '20px', overflow:'hidden'}}/>
+                <img src={NavaSir2}  className="intro-image" />
             </div>
             <div className="boxes" data-aos = "fade-up">
              
-                <img src={NavaSir3}  className="intro-image" style={{ width: '100%', height: 'auto', padding: '20px', overflow:'hidden'}}/>
+                <img src={NavaSir3}  className="intro-image" />
             </div>
             <div className="boxes" data-aos = "fade-up">
                 
-                <img src={NavaSir4}  className="intro-image" style={{ width: '100%', height: 'auto', padding: '20px', overflow:'hidden'}}/>
+                <img src={NavaSir4}  className="intro-image" />
             </div>
             
         </div>
