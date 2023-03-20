@@ -1,11 +1,15 @@
-import bm1 from '../assets/bm1.jpeg';
-import bm2 from '../assets/bm2.jpeg';
-import bm3 from '../assets/bm3.jpeg';
-import bm4 from '../assets/bm4.jpeg';
-import bm5 from '../assets/bm5.jpeg';
-import bm6 from '../assets/bm6.jpeg';
-import bm7 from '../assets/bm7.jpeg';
-import bm8 from '../assets/bm8.jpeg';
+import BM1 from '../assets/BM1.jpeg';
+import BM2 from '../assets/BM2.jpeg';
+import BM3 from '../assets/BM3.jpeg';
+import BM4 from '../assets/BM4.jpeg';
+import BM5 from '../assets/BM5.jpeg';
+import BM6 from '../assets/BM6.jpeg';
+import BM7 from '../assets/BM7.jpeg';
+import BM8 from '../assets/BM8.jpeg';
+import BM9 from '../assets/BM9.jpeg';
+import BM10 from '../assets/BM10.jpeg';
+import BM11 from '../assets/BM11.jpeg';
+import BM12 from '../assets/BM12.jpeg';
 
 import dis1 from '../assets/dis1.jpeg';
 import dis2 from '../assets/dis2.jpeg';
@@ -23,38 +27,55 @@ const Matchbefore = () => {
     return (
         <div className="grids">
          
-            <div className="boxes" data-aos = "fade">
-           
-                <img src={bm1}  className="intro-image" />
-            </div>
+        
             <div className="boxes" data-aos = "fade">
              
-                <img src={bm2}  className="intro-image" />
+                <img src={BM1}  className="intro-image" />
             </div>
             <div className="boxes" data-aos = "fade">
            
-                <img src={bm3}  className="intro-image" />
+                <img src={BM2}  className="intro-image" />
             </div>
             <div className="boxes" data-aos = "fade">
              
-                <img src={bm4}  className="intro-image" />
+                <img src={BM3}  className="intro-image" />
+            </div>
+            <div className="boxes" data-aos = "fade">
+             
+                <img src={BM4}  className="intro-image" />
             </div>
             <div className="boxes" data-aos = "fade">
            
-                <img src={bm5}  className="intro-image" />
+                <img src={BM5}  className="intro-image" />
             </div>
             <div className="boxes" data-aos = "fade">
              
-                <img src={bm6}  className="intro-image" />
+                <img src={BM6}  className="intro-image" />
             </div>
             <div className="boxes" data-aos = "fade">
            
-                <img src={bm7}  className="intro-image" />
+                <img src={BM7}  className="intro-image" />
             </div>
             <div className="boxes" data-aos = "fade">
              
-                <img src={bm8}  className="intro-image" />
+                <img src={BM8}  className="intro-image" />
             </div>
+            <div className="boxes" data-aos = "fade">
+           
+           <img src={BM9}  className="intro-image" />
+       </div>
+       <div className="boxes" data-aos = "fade">
+        
+           <img src={BM10}  className="intro-image" />
+       </div>
+       <div className="boxes" data-aos = "fade">
+      
+           <img src={BM11}  className="intro-image" />
+       </div>
+       <div className="boxes" data-aos = "fade">
+        
+           <img src={BM12}  className="intro-image" />
+       </div>
           
             
             
