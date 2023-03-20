@@ -4,7 +4,7 @@ import CalistusVideo from '../assets/CalistusVideo.mp4'
 const IntroVideo = () =>{
     return(
         <div className='introvideo' style={{overflow:'hidden'}}>
-            <div className="overlay"></div>
+            {/* <div className="overlay"></div> */}
             <video src= {CalistusVideo} autoPlay loop muted></video>
             
             <div className="content">
