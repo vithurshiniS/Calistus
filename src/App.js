@@ -37,6 +37,7 @@ import Badminton from './components/Badminton';
 import Champions from './components/Champions';
 import BeforeMatches from './components/BeforeMatches';
 import Header from './components/Header';
+import Matchbefore from './components/Matchbefore';
 
 function App() {
   return (
@@ -47,7 +48,8 @@ function App() {
       <img src={CalistusBrother}  className="intro-image" />
       
       <IntroText text = "The tournament began on 7th of December, 2022, with two teams from each of the four batches (E16, E17, E18, and E19), and the teams that would face off in the final battle were chosen following the B-League and Super Six League matches."/>
-      <BeforeMatches/>
+      {/* <BeforeMatches/> */}
+      <Matchbefore/>
       <IntroText text ="The 21st of January 2023 marked the arrival of the grand finale, and all four of the A teams from the four batches have advanced to the playoffs."/>
       <img src={Fourteams}  className="intro-image"/>
       <PlayoffTeams/>
